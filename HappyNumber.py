@@ -13,5 +13,6 @@ while(k not in check):
         print("True")
         break
     check.append(k)
+    k=squareit(k)
 else:
     print("False")
