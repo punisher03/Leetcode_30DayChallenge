@@ -1,1 +1,2 @@
-print("hello quarantine")
+s=int(input())
+print("hello",s)
